@@ -18,7 +18,7 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/style-generate.git
+    git clone https://github.com/ayushpratap113/style-generate.git
     cd style-generate
     ```
 
